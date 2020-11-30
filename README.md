@@ -1,3 +1,4 @@
 # Cpp-terminal-colors
+Enjoy :)
 
-![image](https://user-images.githubusercontent.com/45504136/100568184-168dc000-3290-11eb-970c-2f629034c78d.png)
+![image](https://user-images.githubusercontent.com/45504136/100570225-dd584e80-3295-11eb-9efb-9496c67c9be3.png)
